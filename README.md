@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `XAUUSD_5m.csv` (11,089 rows, `2026-07-07` -> `2026-09-02`, 1.03 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xauusd)** — **1,209,029** `5m` rows (full `1m`: 6,032,490), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
+> **Sample on GitHub** · `XAUUSD_5m.csv` (11,088 rows, `2026-07-07` -> `2026-09-02`, 1.03 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xauusd)** — **1,209,029** `5m` rows (full `1m`: 5,887,627), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Gold / US Dollar · Metals | Gold / US Dollar · Metals |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,089 | **1,209,029** |
+| 5m rows | 11,088 | **1,209,029** |
 | Size | 1.03 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xauusd) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-02-24` -> `2026-09-02` |
 | File | `XAUUSD_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/xauusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`XAUUSD_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 4127.6 | 4128.43 | 4118.51 | 4122.38 | 8397 |
 | 2026-07-07T19:05:00+00:00 | 4122.38 | 4122.53 | 4108.66 | 4111.81 | 9117 |
 | 2026-07-07T19:10:00+00:00 | 4111.81 | 4112.42 | 4103.79 | 4106.5 | 7333 |
 | 2026-07-07T19:15:00+00:00 | 4106.5 | 4106.5 | 4092.86 | 4099.45 | 10372 |
 | 2026-07-07T19:20:00+00:00 | 4099.45 | 4103.45 | 4094.07 | 4102.4 | 8354 |
+| 2026-07-07T19:25:00+00:00 | 4102.4 | 4107.5 | 4098.97 | 4104.06 | 4875 |
 
 **Last rows**
 
